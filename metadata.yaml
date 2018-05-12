@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25104'
     url: http://www.gutenberg.org/2009/agents/25104
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22096#Stories-the-Iroquois-Tell-Their-Children
 gutenberg_bookshelf:
 - Children's Myths, Fairy Tales, etc.
 - Native America
